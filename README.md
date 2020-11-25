@@ -1,1 +1,0 @@
-# vROps-Rest-API-ClusterInventory.ps1
